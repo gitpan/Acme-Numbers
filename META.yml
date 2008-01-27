@@ -1,0 +1,19 @@
+---
+name: Acme-Numbers
+version: 1.0
+author: []
+abstract: a fluent numeric interface
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+requires:
+  Lingua::EN::Words2Nums: 0
+  Test::More: 0.62
+provides:
+  Acme::Numbers:
+    file: lib/Acme/Numbers.pm
+    version: 1.0
+generated_by: Module::Build version 0.2808
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
