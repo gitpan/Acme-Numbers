@@ -1,6 +1,6 @@
 ---
 name: Acme-Numbers
-version: 1.0
+version: 1.1
 author: []
 abstract: a fluent numeric interface
 license: perl
@@ -12,7 +12,7 @@ requires:
 provides:
   Acme::Numbers:
     file: lib/Acme/Numbers.pm
-    version: 1.0
+    version: 1.1
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
